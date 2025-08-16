@@ -29,7 +29,7 @@ const MedicalRecordList = () => {
 
     return (
         <div className="records-container">
-            <h2 className="records-title">Medical Records</h2>
+            <h2 className="records-title">Medical Records Records</h2>
 
             <div className="table-wrapper">
                 <table className="records-table">
