@@ -42,7 +42,7 @@ const AddMedicalRecord = () => {
 
     return (
         <div className="form-container">
-            <h2>Add Medical Record</h2>
+            <h2>Add Record</h2>
             <form onSubmit={handleSubmit}>
                 <div className="form-group">
                     <label>Diagnosis:</label>
